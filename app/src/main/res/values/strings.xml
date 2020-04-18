@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HitungLuas</string>
+
+    <string-array name="luas">
+        <item>Luas Persegi</item>
+        <item>Luas Kubus</item>
+    </string-array>
+</resources>
